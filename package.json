@@ -1,0 +1,17 @@
+{
+  "name": "example-sum-up",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the sum-up module.",
+  "homepage": "https://github.com/npmawesome/example-sum-up",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmawesome/example-sum-up"
+  },
+  "dependencies": {
+    "sum-up": "^1.0.0"
+  }
+}
